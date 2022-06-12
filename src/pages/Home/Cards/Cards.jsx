@@ -6,16 +6,16 @@ export function Cards() {
     <Container>
       <Grid>
         <Grid1>
-          <h1>+ 7200</h1>
+          <h1>+ 7900</h1>
           <p>cm de Medidas Reduzidas</p>
         </Grid1>
         <Grid2>
-          <h1>+ 800</h1>
+          <h1>+ 900</h1>
           <p>Kg de Gorduras Eliminadas</p>
         </Grid2>
         <Grid3>
-          <h1>+ 02</h1>
-          <p>Anos de Experiências</p>
+          <h1>+ 1500</h1>
+          <p>Clientes beneficiadas</p>
         </Grid3>
       </Grid>
     </Container>
